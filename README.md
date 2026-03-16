@@ -21,7 +21,8 @@ This repository demonstrates the application of industry-standard programming pr
 ## 📸 Preview
 
 *(Add a GIF or screenshot of the game here. Show the dialogue system or the enemy AI chasing the player!)*
-![Gameplay Preview](link-to-your-image-or-gif.gif)
+![Gameplay Preview](https://github.com/user-attachments/assets/2cbc040e-7bf5-4fe0-a068-85edf690bfa8.gif)
+
 
 ## 💻 How to Run This Project
 
