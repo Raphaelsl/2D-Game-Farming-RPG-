@@ -20,7 +20,7 @@ This repository demonstrates the application of industry-standard programming pr
 
 ## 📸 Preview
 
-https://github.com/user-attachments/assets/2cbc040e-7bf5-4fe0-a068-85edf690bfa8.gif
+https://github.com/user-attachments/assets/2cbc040e-7bf5-4fe0-a068-85edf690bfa8
 
 
 ## 💻 How to Run This Project
