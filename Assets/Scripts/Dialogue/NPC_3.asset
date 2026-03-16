@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9d4e96c6ee1673479b0fb1eb6a99ed8, type: 3}
+  m_Name: NPC_3
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Carlos
+    profile: {fileID: 21300000, guid: 52b5475e1bba2354fbb607943f373f19, type: 3}
+    sentence:
+      portuguese: Da pra construir uma casa nesse terreno
+      english: 
+      spanish: 
+  - actorName: Carlos
+    profile: {fileID: 1455172997, guid: 3262eede4a8a9fd458373428e0e215d7, type: 3}
+    sentence:
+      portuguese: "Para construir \xE9 preciso de 5 madeiras"
+      english: 
+      spanish: 
+  - actorName: Carlos
+    profile: {fileID: 21300000, guid: 52b5475e1bba2354fbb607943f373f19, type: 3}
+    sentence:
+      portuguese: Aperte a tecla "E" para construir
+      english: 
+      spanish: 
